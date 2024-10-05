@@ -1,2 +1,8 @@
-Hey!
-I am Anay Joshi from Kolhapur, Maharashtra in India. My major is Computer Science, and I am part of the University Honors Program at the University of Cincinnati. I did my co-op(s) at one of the tech giants in Sunnyvale, California as a Software Developer. Moreover, I am also a proud presidential member of the National Society of Leadership and Success (NSLS). Beyond the intricacies of coding and algorithms, I love traveling to different places, and in my free time, I enjoy driving my sports car and riding my cruiser bike.
+# Welcome to My GitHub Profile!
+
+Hi, I'm **Anay Joshi**, a Computer Science student with a focus on Artificial Intelligence and Quantitative Finance.   
+Feel free to reach out on my e-mail: ```joshi2an@mail.uc.edu```.  
+  
+  
+![Profile Views](https://komarev.com/ghpvc/?username=anay-a-joshi&color=green)  
+
